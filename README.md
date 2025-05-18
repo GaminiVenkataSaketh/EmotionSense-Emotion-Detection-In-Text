@@ -1,8 +1,10 @@
+---
 
 # Emotion Detection in Text Using Natural Language Processing
 
 ![Home Page Screenshot](images/home%20page.png)
 
+---
 
 ## Introduction
 
@@ -47,19 +49,28 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your machine:
 
+    ```bash
+     git clone <https://github.com/GaminiVenkataSaketh/EmotionSense-Emotion-Detection-In-Text>
+    ```
+    
+2. Navigate to the project directory
+   
+   ```bash
+   cd EmotionSense-Emotion-Detection-In-Text 
+   ```
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Launch the Streamlit application:
+4. Launch the Streamlit application:
 
    ```bash
    streamlit run app.py
    ```
 
-4. The app will automatically open in your default web browser.
+5. The app will automatically open in your default web browser.
 
 ---
